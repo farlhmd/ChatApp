@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34713202153",
+    "firebase_url": "https://chat-app-a13a7.firebaseio.com",
+    "project_id": "chat-app-a13a7",
+    "storage_bucket": "chat-app-a13a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34713202153:android:d19876d1281f10d3e8ef78",
+        "android_client_info": {
+          "package_name": "com.kelompok2.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34713202153-crosh017re50i856qgsetu983qvbhlhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XlbvVzX-ew8M3iCI26bQEWvqOszrBu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34713202153-crosh017re50i856qgsetu983qvbhlhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
